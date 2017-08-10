@@ -2,4 +2,4 @@
 Google code challenge
 
 
-![First screen of google code challlenge](Screen Shot 2017-08-09 at 4.50.20 PM.png)
+![First screen of google code challlenge](https://github.com/laurentiuspurba/google-code-challenge/blob/master/Screen%20Shot%202017-08-09%20at%204.50.20%20PM.png)
